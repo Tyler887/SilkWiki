@@ -1,0 +1,2 @@
+# SilkWiki
+A simplified wiki
